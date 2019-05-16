@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 <title>SbAdmin</title>
 
 <!-- Custom fonts for this template-->
